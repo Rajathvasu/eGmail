@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64765" started-at="2016-04-14T07:21:30Z" finished-at="2016-04-14T07:22:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64765" started-at="2016-04-14T07:21:30Z" finished-at="2016-04-14T07:22:34Z">
+      <class name="com.script.CBTCrowdTest">
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="tearUp" is-config="true" duration-ms="7216" started-at="2016-04-14T12:51:30Z" finished-at="2016-04-14T12:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="preCondition" is-config="true" duration-ms="431" started-at="2016-04-14T12:51:37Z" finished-at="2016-04-14T12:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testLogin()[pri:1, instance:com.script.CBTCrowdTest@23223dd8]" name="testLogin" duration-ms="15611" started-at="2016-04-14T12:51:37Z" finished-at="2016-04-14T12:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="postCondition" is-config="true" duration-ms="1" started-at="2016-04-14T12:51:53Z" finished-at="2016-04-14T12:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="preCondition" is-config="true" duration-ms="229" started-at="2016-04-14T12:51:53Z" finished-at="2016-04-14T12:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="t2()[pri:11, instance:com.script.CBTCrowdTest@23223dd8]" name="t2" duration-ms="15326" started-at="2016-04-14T12:51:53Z" finished-at="2016-04-14T12:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="postCondition" is-config="true" duration-ms="0" started-at="2016-04-14T12:52:08Z" finished-at="2016-04-14T12:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="preCondition" is-config="true" duration-ms="231" started-at="2016-04-14T12:52:08Z" finished-at="2016-04-14T12:52:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="t3()[pri:11, instance:com.script.CBTCrowdTest@23223dd8]" name="t3" duration-ms="25161" started-at="2016-04-14T12:52:09Z" finished-at="2016-04-14T12:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="postCondition" is-config="true" duration-ms="0" started-at="2016-04-14T12:52:34Z" finished-at="2016-04-14T12:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.script.CBTCrowdTest@23223dd8]" name="tearDown" is-config="true" duration-ms="541" started-at="2016-04-14T12:52:34Z" finished-at="2016-04-14T12:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.script.CBTCrowdTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
